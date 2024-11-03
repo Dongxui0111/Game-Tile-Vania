@@ -9,13 +9,19 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: dda68aa4bc5ba264ba31089f8d09b7dd
   - enabled: 1
-    path: Assets/Scenes/Jump.unity
+    path: Assets/Scenes/Level_1.unity
     guid: 3b6e205bd746ae544ad764b6f244cde7
   - enabled: 1
-    path: Assets/Scenes/Ladder.unity
+    path: Assets/Scenes/Level_2.unity
     guid: 1dc6ff462cff9b24992f07dfb91d630f
   - enabled: 1
-    path: Assets/Scenes/Risky Jumps.unity
+    path: Assets/Scenes/Level_3.unity
+    guid: 9ff9400a22b3d5b47939cddfa2afcf97
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: 64b986a4ed629364c945d31d628617fc
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/The End.unity
