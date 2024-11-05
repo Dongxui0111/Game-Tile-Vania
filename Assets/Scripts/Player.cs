@@ -62,7 +62,7 @@ public class Player : MonoBehaviour
         }
 
         Shoot();
-        //Die();
+        Die();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
